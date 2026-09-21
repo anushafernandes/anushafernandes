@@ -421,7 +421,7 @@ https://linkedin.com/in/anusha-fernandes-2620a418
 Add your GitHub profile URL here.
 
 **Email:**
-Add your preferred professional email here.
+anushafernandes28@gmail.com
 
 ---
 
