@@ -18,7 +18,7 @@ Professional portfolio for Anusha Fernandes.
 
 ## Website
 
-Open `index.html` locally, or publish this repository using GitHub Pages.
+Open `index.html` locally, or publish the site with GitHub Pages. In the repository's **Settings → Pages**, select **Deploy from a branch**, then choose the branch containing the portfolio and the `/ (root)` folder.
 
 ## Portfolio projects
 
